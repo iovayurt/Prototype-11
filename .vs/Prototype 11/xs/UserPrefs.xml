@@ -4,7 +4,7 @@
       <File FileName="Assets/Scripts/MoveLeft.cs" Line="27" Column="33" />
       <File FileName="Assets/Scripts/SpawnManager.cs" />
       <File FileName="Assets/Scripts/RepeatBackground.cs" />
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="22" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
